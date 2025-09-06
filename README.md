@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bekwiner
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python , c , js, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - my telegram: @uzb_bekzod
